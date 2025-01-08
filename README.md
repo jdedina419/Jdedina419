@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello and welcome to my profile!
+## I am Jdedina419, an experienced operations leader and aspiring actuary looking to strengthen my technical experience.
+## I am interested in health and life datasets along with P&C datasets with claims information, however, I'm open to anything that allows me to analyze data, quantify risk, develop models, and interpret results.
 
 <!--
 **jdedina419/Jdedina419** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
